@@ -8,7 +8,7 @@ const cors = require('cors');
 server.use(cors())
 
 
-mongoose.connect('mongodb+srv://zadrel:1326752@cluster0-kpf6d.mongodb.net/omnistack8?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://zadrel:1326752asd@cluster0-kpf6d.mongodb.net/omnistack8?retryWrites=true&w=majority', {
     useNewUrlParser: true
 })
 
